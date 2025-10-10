@@ -16,6 +16,17 @@ A modern, interactive web application for discovering, searching, and managing y
 
 Simply open `index.html` in your web browser to start exploring books!
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshoot%20of%20Home%20page.png)
+
+### Favorites Page
+![Favorites Page](screenshoots%20of%20Favorites%20page.png)
+
+### About Page
+![About Page](screenshoot%20of%20About%20page.png)
+
 ## 📋 Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
@@ -163,5 +174,8 @@ This project is open source and available under the [MIT License](LICENSE).
 If you have any questions or run into issues, please open an issue on the GitHub repository.
 
 ---
+![grid](./screenshoot of About page.png)
+![grid](./screenshoot of Home page.png)
+![grid](./screenshoot of Favorites page.png)
 
 **Happy Reading! 📖✨**
